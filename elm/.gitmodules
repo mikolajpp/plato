@@ -1,0 +1,6 @@
+[submodule "ports/ace-builds"]
+	path = ports/ace-builds
+	url = https://github.com/ajaxorg/ace-builds.git
+[submodule "src/lib/elm-urbit"]
+	path = src/lib/elm-urbit
+	url = git@github.com:mikolajpp/elm-urbit.git

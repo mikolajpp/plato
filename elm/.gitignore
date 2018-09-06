@@ -1,0 +1,8 @@
+deck
+yarn.lock
+node_modules/
+elm-stuff/
+plato.js
+dist/
+yarn-error.log
+dist.tar.gz
