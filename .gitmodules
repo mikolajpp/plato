@@ -1,0 +1,3 @@
+[submodule "elm/src/lib/elm-urbit"]
+	path = elm/src/lib/elm-urbit
+	url = https://github.com/mikolajpp/elm-urbit.git

@@ -25,7 +25,6 @@ for installation guide.
 Make sure you have necesarry tools: elm binary, yarn, webpack.
 After cloning the repository run
 1. yarn install
-2. elm install 
 3. yarn dev
 
 A dev server will fire up on `http://localhost:3000`.
