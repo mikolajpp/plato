@@ -1,4 +1,4 @@
-# Plato
+# Plato (Frontend)
 
 Plato aims to become the go-to Urbit solution
 for fast prototyping, code sharing, showcasing and education.
@@ -17,7 +17,7 @@ in Elm.
 # Install
 
 Get plato up and running on your urbit in seconds.
-Head to http://urbitetorbi.org/plato/install
+Head to http://www.urbitetorbi.org/plato/install
 for installation guide. 
 
 # Running locally
